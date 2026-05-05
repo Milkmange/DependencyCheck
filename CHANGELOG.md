@@ -10,6 +10,7 @@
 - fix: bump open-vulnerability-clients to resolve NVD timestamp parsing errors ([#8427](https://github.com/dependency-check/DependencyCheck/pull/8427))
 - fix: migrate default OSS Index API URL to Sonatype Guide; supporting optional username ([#8404](https://github.com/dependency-check/DependencyCheck/pull/8404))
 - chore(fp): remove duplicate log4j FP suppressions ([#8468](https://github.com/dependency-check/DependencyCheck/pull/8468))
+- chore: tidy CHANGELOG formatting ([#8414](https://github.com/dependency-check/DependencyCheck/pull/8414))
 - chore: remove spurious bundle-audit log line when there are no errors ([#8454](https://github.com/dependency-check/DependencyCheck/pull/8454))
 - docs: tweak docs site structure; documenting missing analyzers ([#8462](https://github.com/dependency-check/DependencyCheck/pull/8462))
 - docs: correct missing documentation for Gradle plugin ([#8431](https://github.com/dependency-check/DependencyCheck/pull/8431))
@@ -27,10 +28,7 @@
 - build(deps): bump httpcomponents.client.version from 5.6 to 5.6.1 ([#8432](https://github.com/dependency-check/DependencyCheck/pull/8432))
 - build(deps): bump apache.ant.version from 1.10.16 to 1.10.17 ([#8416](https://github.com/dependency-check/DependencyCheck/pull/8416))
 
-
-- chore: tidy CHANGELOG formatting ([#8414](https://github.com/dependency-check/DependencyCheck/pull/8414))
-
-See the full listing of [changes](https://github.com/dependency-check/DependencyCheck/milestone/104?closed=1)
+See the full listing of [changes](https://github.com/dependency-check/DependencyCheck/milestone/106?closed=1)
 
 ## [Version 12.2.1](https://github.com/dependency-check/DependencyCheck/releases/tag/v12.2.1) (2026-04-11)
 
